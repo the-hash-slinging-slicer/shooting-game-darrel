@@ -1,3 +1,4 @@
+#ini adalah test update dari github langsung 
 from pygame import *
 # import os
 import random
